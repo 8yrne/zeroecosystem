@@ -1,7 +1,7 @@
 # Theme settings
 doks:
     baseurl:
-    color_theme: yellow
+    color_theme: themes/yellow
     header:
         logo:
             text: Project name
@@ -18,7 +18,7 @@ doks:
             logo:
                 text: Project name
                 image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+            copyright: © Zero Ecosystem Limited 2021 <br>(trading as “zrO.ec”) a company limited by Guarantee (Company No. 13349586) registered in England, United Kingdom
         social_list:
             - network_name: facebook
               profile_url: '#'
